@@ -2,7 +2,7 @@
 """
 Created on Mon Apr 13 15:00:36 2026
 
-@author: Sourav
+@author: RAJ MAGAR
 """
 
 class Employee:
