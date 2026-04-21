@@ -2,7 +2,7 @@
 """
 Created on Mon Apr 20 09:32:10 2026
 
-@author: Nikhil Nikam
+@author: RAJ MAGAR
 """
 
 import random
